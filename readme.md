@@ -18,7 +18,7 @@ The Process involved :
 
 ### Follow-up Experiment :
 
- Decrease the number of students who cancel after they enroll in their nanodegree without reducing net-conversion. (Improve retention).
+##### Decrease the number of students who cancel after they enroll in their nanodegree without reducing net-conversion. (Improve retention).
 - 
 **Full report in Udacity Report.pdf**
 
