@@ -15,6 +15,7 @@ The Process involved :
 - - Sanity checks 
 - - Result analysis
 - Recommendation
-- Follow-up Experiment.
+- Follow-up Experiment :
+- - Decrease the number of students who cancel after they enroll in their nanodegree without reducing net-conversion. (Improve retention).
 - 
 **Full report in Udacity Report.pdf**
